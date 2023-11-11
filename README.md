@@ -7,4 +7,4 @@ Note App
 4. Delete Note
 
  Flutter + SQLite
- qflite plugin to save structured data offline and create a database, store, update, and remove data (CRUD) in a Flutter application.
+  plugin to save structured data offline and create a database, store, update, and remove data (CRUD) in a Flutter application.
